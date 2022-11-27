@@ -16,8 +16,8 @@ function Blog() {
       text: '技術情報。PythonとNode.jsが多め。まれにJava、Perl、Oracleなど。'
     },
     {
-      title: 'Note',
-      url: "https://note.com/cress_cc" ,
+      title: 'くれすのFPノート',
+      url: "https://blog.cress.cc/" ,
       text: '保険と税金を中心に、ファイナンシャル・プランニングの６分野（金融・不動産・ライフ・リスク・タックス・相続）について雑に書いています。'
     },
     {

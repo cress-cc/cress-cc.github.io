@@ -47,6 +47,17 @@ function Profile() {
             </Card.Text>
           </Card.Body>
         </Card>
+        <Card>
+          <Card.Body>
+            <Card.Title>FP歴</Card.Title>
+            <Card.Text>
+              <ul>
+                <li>2022年10月からCFP&reg;</li>
+                <li>得意科目はリスク管理とタックスプランニング</li>
+              </ul>
+            </Card.Text>
+          </Card.Body>
+        </Card>
       </Stack>
     </header>
   );

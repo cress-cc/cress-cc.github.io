@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cress-cc.github.io/sitemap-index.xml
